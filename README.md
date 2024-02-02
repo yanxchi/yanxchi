@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Yan Chi</h1>
-<h3 align="center">A passionate frontend developer from Singapore</h3>
+<h1 align="center">Hi <img src= "https://media1.tenor.com/m/CU-PX1m0egYAAAAC/wave-hi.gif" width="35">, I'm Yan Chi</h1>
+<h3 align="center">A passionate frontend developer from Singapore <img src ="https://i.pinimg.com/originals/47/37/f3/4737f384e164cab17788950cca6a312c.gif" width="50"/></h3>
+<img align = "center" alt="Coding" width="700" src = "https://www.icegif.com/wp-content/uploads/studio-ghibli-icegif-1.gif"> 
+
 
 - 🔭 I’m interested in **frontend development for web and mobile applications.**
 
