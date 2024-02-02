@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src= "https://media1.tenor.com/m/CU-PX1m0egYAAAAC/wave-hi.gif" width="35">, I'm Yan Chi</h1>
 <h3 align="center">A passionate frontend developer from Singapore <img src ="https://i.pinimg.com/originals/47/37/f3/4737f384e164cab17788950cca6a312c.gif" width="50"/></h3>
-<img align = "center" alt="Coding" width="900" src = "https://www.icegif.com/wp-content/uploads/studio-ghibli-icegif-1.gif"> 
+<img align = "center" alt="Coding" width="900" src = "https://64.media.tumblr.com/0fa488fe6ccfd2b65e7973159cf00a14/501b9516989ec5bd-91/s640x960/c0ff93cd07fa058c7eb01ec1f0a1d5ec5e996b1a.gif"> 
 
 
 - 🔭 I’m interested in **frontend development for web and mobile applications.**
